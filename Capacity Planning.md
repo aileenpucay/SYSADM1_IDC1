@@ -27,6 +27,7 @@ Security Risks:
 •	No mention of access control lists (ACLs) or segmentation to limit malicious traffic.
 
 Capacity Limitations:
+
 •	The network appears well-distributed, but high traffic on the VLANs (e.g., from servers to PCs) could cause access-layer switch overload. 
 Scalability Planning	
 
