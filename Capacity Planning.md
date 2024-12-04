@@ -1,5 +1,5 @@
-
-![sysadm pkt](https://github.com/user-attachments/assets/74f86572-0bd3-4e89-ac61-438cdbe5ace3)
+![sysadm pkt]([F_Capacity Planning.pdf](https://github.com/user-attachments/files/18001544/F_Capacity.Planning.pdf)
+https://github.com/user-attachments/assets/74f86572-0bd3-4e89-ac61-438cdbe5ace3)
 
 Network Analysis:
 Potential Bottlenecks:
