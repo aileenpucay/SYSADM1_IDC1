@@ -1,5 +1,15 @@
 
 ![sysadm pkt![Uploading Capacity Planning.png…]()
+
+
+
+
+
+
+
+
+
+
 ](https://github.com/user-attachments/assets/cbfe0d67-ead7-41fe-a6ff-50bb9d668304)
 
 
