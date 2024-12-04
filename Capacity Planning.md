@@ -1,4 +1,6 @@
-https://github.com/user-attachments/assets/74f86572-0bd3-4e89-ac61-438cdbe5ace3)
+
+![sysadm pkt](https://github.com/user-attachments/assets/cbfe0d67-ead7-41fe-a6ff-50bb9d668304)
+
 
 Network Analysis:
 Potential Bottlenecks:
