@@ -1,10 +1,8 @@
 
-![sysadm pkt![Uploading Capacity Planning.png…]()
+![Screenshot 2024-12-04 101952](https://github.com/user-attachments/assets/69336825-d404-4201-a507-cf0881414b11)
 
 
-
-
-
+![Screenshot 2024-12-04 102044](https://github.com/user-attachments/assets/0aab9feb-b61b-4b18-a2e9-abb6e6b00f86)
 
 
 
