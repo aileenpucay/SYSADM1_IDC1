@@ -1,17 +1,7 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| a0b84b72e627493faa8b33c6ea5c33aa |                        |          |
-| /media/image2.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION TECHNOLOGY |                        |          |
-+==================================+========================+==========+
-| NAME:                            |                        |          |
-+----------------------------------+------------------------+----------+
-| SECTION:                         | DATE SUBMITTED:        |          |
-+----------------------------------+------------------------+----------+
 
-# \<SUBJECT CODE\> PORTFOLIO
+![Screenshot 2024-12-05 211912](https://github.com/user-attachments/assets/2ce05f9b-78eb-4687-a5d0-5e52a9710ca6)
+
+# SYSADM1 PORTFOLIO
 
 > **Table of Contents**
 
