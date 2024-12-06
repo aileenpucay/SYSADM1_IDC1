@@ -96,8 +96,6 @@ My very first expectation in this subject is to learn about System Administratio
 which is I think somewhat interesting. 
   -------------------------------------------------------------------------------
 
-  -----------------------------------------------------------------------
-
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?
 
@@ -148,5 +146,8 @@ How do you plan to apply what you have learned in this course to your
 future studies, career, or personal life?
 
   -----------------------------------------------------------------------
+I can apply the knowledge I have acquired by always have backups to your
+important files, so if ever it might compromise, atleast we still have 
+the files with us. We sometimes forget to backup but in this course we 
 
   -----------------------------------------------------------------------
