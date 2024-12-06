@@ -85,23 +85,22 @@
 
 **Quiz 1:**
 
-![](vertopal_a0b84b72e627493faa8b33c6ea5c33aa/media/image1.png){width="2.8125in"
-height="2.8125in"}
 
-**\<delete the sample above and include your own
-quizzes/activities/exam\>**
 
 **Course Reflection**
 
 What were your initial expectations for the course? Did the course meet,
 exceed, or fall short of these expectations?
 
-  -----------------------------------------------------------------------
+My very first expectation in this subject is to learn about System Administration
+which is I think somewhat interesting. 
+  -------------------------------------------------------------------------------
 
   -----------------------------------------------------------------------
 
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?
+
 
   -----------------------------------------------------------------------
 
