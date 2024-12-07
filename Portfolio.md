@@ -109,7 +109,8 @@ strategies or techniques that helped you grasp and retain the course
 material?
 
   -----------------------------------------------------------------------
-
+The most effective way for me to grasp the lessons is through collaboration.
+In this field, many 
   -----------------------------------------------------------------------
 
 Were there any particular assignments, projects, or activities that
