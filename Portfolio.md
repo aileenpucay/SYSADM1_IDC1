@@ -42,11 +42,11 @@ What were your initial expectations for the course? Did the course meet,
 exceed, or fall short of these expectations?
 
 - My initial expectations from this subject were to know more about the duties of a System administrator and to connect things that we learned on Server administration last semester. The course exceeds my expectations because I thought there is not coding but it turns out it’s a bit harder because we used cli command for short period of time.
-  -------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------
 
 What were the main topics or concepts covered in the course? How did
 these topics contribute to your understanding of the subject matter?
-  -----------------------------------------------------------------------
+
 -	The main topics it covers were evolution of systems administration, Linux and windows, end-user license agreement (EULA), web server monitoring, data recovery plan, acceptable use policy (AUP), capacity management and planning, and RAID levels. 
 -	These helped me to understand further our topic through doing and exercising these activities. By doing so, we can learn lots of things especially in doing backups to important details, understanding EULA which is also essential to know what we are agreeing to. 
   -----------------------------------------------------------------------
@@ -54,7 +54,7 @@ these topics contribute to your understanding of the subject matter?
 Reflecting on your learning process, what were the most effective
 strategies or techniques that helped you grasp and retain the course
 material?
-  -----------------------------------------------------------------------
+
 -	One of the most effective strategies helped me to grasp the lesson is through group study and collaboration. Most of the time, I could not understand how to implement a certain task, for example in the VM where we use ubuntu, sometimes I am the last one to do the task related to it but by asking help, I can finally finish my task. 
 -	In our laboratory, some people can grasp on how to simulate the activities while some of us – like me cannot easily do so, that is why when we have time, we do group study to lessen the time of asking when not necessary.
   -----------------------------------------------------------------------
@@ -100,7 +100,8 @@ the files with us. We sometimes forget to backup but in this course we
   -----------------------------------------------------------------------
 
 
-Prepared by: 									
+Prepared by: 
+
 ![image](https://github.com/user-attachments/assets/a837dd8a-6cfd-46de-81e2-33c11a8b0ebb)
 
 
