@@ -80,7 +80,6 @@ Did the course encourage critical thinking and analysis? How did it promote high
 Reflecting on your personal growth, what new knowledge, skills, or
 perspectives did you gain from this course?
 
-------------------------------------------------------------------------------
 -	I learned a lot of skills that can be helpful in my future career but one of the most important things I realized in this course out of many skills is that trial-and-error. I actually do not like this because it wastes a lot of time but without it, we cannot understand and fully know which one works well for it. 
 -	Also, I learned problem-solving and analyzation skills. One of the quotes I read somewhere that have great impact is “If I were to solve a world problem in an hour, I will define the problem for 55 minutes and give solutions in just 5 minutes.” -  so, before doing task, first I understand carefully the problem or the task before providing an answer. 
 -------------------------------------------------------------------------------
@@ -88,7 +87,6 @@ perspectives did you gain from this course?
 How do you plan to apply what you have learned in this course to your
 future studies, career, or personal life?
 
--------------------------------------------------------------------------------
 - I can apply the knowledge I have acquired by always have backups to your
 important files, so if ever it might compromise, atleast we still have 
 the files with us. We sometimes forget to backup but in this course we 
